@@ -123,7 +123,5 @@ This project is licensed under the MIT License.
 - Order history page
 
 ## Live Demo
-
-https://your-demo-link.com
 4. Push to your branch
 5. Submit a pull request
