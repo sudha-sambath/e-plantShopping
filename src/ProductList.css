@@ -160,9 +160,24 @@ body {
     width: 650px;
     font-size: 19px;
 }
-.cart{
+.cart {
+    position: relative;
+    display: inline-block;
+}
+
+.cart-count {
+    position: absolute;
+    top: -5px;
+    right: -8px;
+    background: red;
     color: white;
+    border-radius: 50%;
+    font-size: 14px;
+    width: 24px;
+    height: 24px;
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .cart_quantity_count{
     margin-top: 16px;
