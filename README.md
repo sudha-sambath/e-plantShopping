@@ -95,11 +95,12 @@ e-plantShopping/
 
 ### Product Listing
 
-![Products](screenshots/products-page.png)
+<img width="1512" height="982" alt="Screenshot 2026-06-17 at 20 48 51" src="https://github.com/user-attachments/assets/96048688-bfd1-48de-bb5f-014d19b650b3" />
 
 ### Shopping Cart
 
-![Cart](screenshots/cart-page.png)
+<img width="1512" height="982" alt="Screenshot 2026-06-17 at 20 51 54" src="https://github.com/user-attachments/assets/518d4f06-6b43-459f-84be-1c4a6ffef425" />
+
 
 ## Contributing
 
